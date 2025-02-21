@@ -17,4 +17,6 @@ with open("D:\All_Python_Program\Exarcise7\poem.txt","r") as f:
 
 for key in list(d.keys()):
     print(key, ":" , d[key])
+
+print('masudalom')
     
